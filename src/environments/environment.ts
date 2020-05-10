@@ -4,24 +4,16 @@
 
 export const environment = {
   production: false,
-firebase: {
-  apiKey: "AIzaSyCyXy5pNQ91hOWJ2ycfLQ6SRROzZvlycyM",
-  authDomain: "scaleinn.firebaseapp.com",
-  databaseURL: "https://scaleinn.firebaseio.com",
-  projectId: "scaleinn",
-  storageBucket: "scaleinn.appspot.com",
-  messagingSenderId: "398533941411",
-  appId: "1:398533941411:web:f51780598116ffa6d60716",
-}
+  firebase: {
+    apiKey: 'AIzaSyCyXy5pNQ91hOWJ2ycfLQ6SRROzZvlycyM',
+    authDomain: 'scaleinn.firebaseapp.com',
+    databaseURL: 'https://scaleinn.firebaseio.com',
+    projectId: 'scaleinn',
+    storageBucket: 'scaleinn.appspot.com',
+    messagingSenderId: '398533941411',
+    appId: '1:398533941411:web:f51780598116ffa6d60716'
+  }
 };
-
-
-
-
-
-};
-
-
 
 /*
  * For easier debugging in development mode, you can import the following file
